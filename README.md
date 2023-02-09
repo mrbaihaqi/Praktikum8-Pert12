@@ -1,5 +1,13 @@
 # Tugas Praktikum 10
 
+<b>Nama : Baihaqi Asa'ari Lubis</b>
+
+<b>NIM : 312210720</b>
+
+<b>Prodi : Teknik Informatika</b>
+
+<b>Mata Kuliah : Bahasa Pemrograman</b>
+
 ### Program Data Mahasiswa
 
 Pada praktikum kali ini, kita akan membuat program sederhana untuk membuat data mahasiswa menggunakan class, fungsi dan Dictionary dengan python.
